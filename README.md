@@ -14,9 +14,9 @@ For THIS PROJECT, you only need the following screws and glue:
 - glue: I recommend Pattex Stabilit Express 2K or super glue)
 
 I am printing the Vixen-style connectors with PLA  (Polymaker Polymax) an the housing parts with PC (Polymaker PC) due to temperature resistance. 
-Everything always with 100% infill (you can use cubic infill with 50% but might get trouble.
+Everything always with 100% infill (you can use cubic infill with 50% but might get trouble. I am printing with a 0,4 or 0,6 nozzle at 0,2 mm layer heigth (you can try 0,3 layer heigt too).
 
-I am printing with a housed prusa MK3S. 
+I am printing with a housed Prusa MK3S (housing is needed for PC)
 
 The vixen dovetails are glued to the parts. You could use screws. I do not like that. 
 
