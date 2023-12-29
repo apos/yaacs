@@ -2,7 +2,7 @@
 
 Hi there,
 
-this is a 3D printable case system to build a astro pc made of a raspberry pi. It uses custom V-shaped conectors that are strong enough an easily interchangable
+this is a 3D printable case system to build a astro pc made of a raspberry pi4 or/and thin client pc. It uses custom V-shaped conectors that are strong enough an easily interchangable
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/1d67b81f-250d-4325-87a3-b2c390186f6e)
 
 For THIS PROJECT, you only need the following screws and glue:
