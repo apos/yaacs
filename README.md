@@ -34,9 +34,16 @@ For the housing use these ones
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/084c2678-271e-4453-a7ca-155448e8c141)
 
 To connect to the box I strongly recommend using **cabled** plugs. Look out, you'll get them very cheap on ebay buying a set of 10 or 20. Nothing is more severe, than loose connections in the night!
-- Be aware, there are two tpyes of 5,5mm jacks with a 2.1 and a 2.5mm pin!
-- 
+- Be aware, there are two tpyes of 5,5mm jacks with a 2.1 and a 2.5mm pin! Use the bigger ones. Most astro equipment uses these. You can also add a few other plugs to the box, just in case (I never had 2.1 equipment).
+  
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/362cf0e7-f642-473a-9b31-183773268dab)
+
+This is with a build in fuse (but you can also use one outside of the housing, which is probly easier).
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/2c5b6344-7efc-46dd-a160-1202e7d786ab)
+
+Use a thick cable vor the 12 Input. Everything is mounted on a Dell Wyse PC for the permanent setup. 
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/5290c4b2-2836-4a14-a09e-24ba53eba986)
+
 
 
 ## AZ-EQ-6 mount 
