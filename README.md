@@ -39,9 +39,11 @@ To connect to the box I strongly recommend using **preconfigured, cabled** plugs
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/362cf0e7-f642-473a-9b31-183773268dab)
 
 This is with a build in fuse (but you can also use one outside of the housing, which is probly easier).
+
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/2c5b6344-7efc-46dd-a160-1202e7d786ab)
 
-Use a thick cable vor the 12 Input. Everything is mounted on a Dell Wyse PC for the permanent setup. 
+**Use a thick cable vor the 12 Input**. Everything is mounted on a Dell Wyse PC for the permanent setup. In the field I am using the Pi4 hat. 
+
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/5290c4b2-2836-4a14-a09e-24ba53eba986)
 
 
