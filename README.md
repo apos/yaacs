@@ -21,7 +21,22 @@ I am printing with a housed Prusa MK3S (housing is needed for PC)
 The vixen dovetails are glued to the parts. You could use screws. I do not like that. 
 
 
-# Additions:
+# Additions
+## Fixation screw for v-mount
+Connection screw for M3x36mm.
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/bff28585-f9ef-4151-b5d9-16a0b49b1476)
+
+## 12V Block
+For the 12V support I am using DC 5,5mm diameter and 2,5mm pin (!!!) jack. I also added a simple fuse on the (+) side (5A to 10A, depending on you usage). They fit perfectly in the housing an can be wired manually using thick (0,4 mm) cable. Don't use to small cables, you'll need the current!
+
+For the housing use these ones
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/084c2678-271e-4453-a7ca-155448e8c141)
+
+To connect to the box I strongly recommend using **cabled** plugs. Look out, you'll get them very cheap on ebay buying a set of 10 or 20. Nothing is more severe, than loose connections in the night!
+- Be aware, there are two tpyes of 5,5mm jacks with a 2.1 and a 2.5mm pin!
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/362cf0e7-f642-473a-9b31-183773268dab)
+
+
 ## AZ-EQ-6 mount 
 No screws. Glue together with long v-mount.
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/6505208a-0a21-4160-a092-0fff6ed295fe)
@@ -34,9 +49,6 @@ Uses M3x12. Glue together with long v-mount (bottom) and short v-mount on top.
 Uses M3x12. Glue together with long v-mount (bottom) and short v-mount on top. 
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/70754b24-77ff-477e-9c35-93da8a9eb406)
 
-## Connection screw 
-Connection screw for M3x36mm.
-![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/bff28585-f9ef-4151-b5d9-16a0b49b1476)
 
 ## My screws for my 3D printing projects
 For all my 3D printig projects I am am using only the following screws (you do not need them all here). This has been proven to be good enough. Don't by them peace by peace! Minimum quantities of 50 or 100 will be as costly as a couple single ones. And you will need them for a lot of project
