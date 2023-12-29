@@ -47,7 +47,7 @@ Use a thick cable vor the 12 Input. Everything is mounted on a Dell Wyse PC for 
 
 
 ## AZ-EQ-6 mount 
-No screws. Glue together with long v-mount.
+No screws. Glue together with long v-mount. I use simple velcro band to secure it around the mount head. 
 
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/6505208a-0a21-4160-a092-0fff6ed295fe)
 
