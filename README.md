@@ -24,6 +24,7 @@ The vixen dovetails are glued to the parts. You could use screws. I do not like 
 # Additions
 ## Fixation screw for v-mount
 Connection screw for M3x36mm.
+
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/bff28585-f9ef-4151-b5d9-16a0b49b1476)
 
 ## 12V Block
@@ -34,24 +35,29 @@ For the housing use these ones
 
 To connect to the box I strongly recommend using **cabled** plugs. Look out, you'll get them very cheap on ebay buying a set of 10 or 20. Nothing is more severe, than loose connections in the night!
 - Be aware, there are two tpyes of 5,5mm jacks with a 2.1 and a 2.5mm pin!
+- 
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/362cf0e7-f642-473a-9b31-183773268dab)
 
 
 ## AZ-EQ-6 mount 
 No screws. Glue together with long v-mount.
+
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/6505208a-0a21-4160-a092-0fff6ed295fe)
 
 ## Lenovo Think Centre M93P thin client mount
 Uses M3x12. Glue together with long v-mount (bottom) and short v-mount on top. 
+
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/08ad83d9-1e7d-45fd-8261-ecd764a5b1ca)
 
 ## Dell Wyse 5070 mount
 Uses M3x12. Glue together with long v-mount (bottom) and short v-mount on top. 
+
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/70754b24-77ff-477e-9c35-93da8a9eb406)
 
 
 ## My screws for my 3D printing projects
-For all my 3D printig projects I am am using only the following screws (you do not need them all here). This has been proven to be good enough. Don't by them peace by peace! Minimum quantities of 50 or 100 will be as costly as a couple single ones. And you will need them for a lot of project
+For all my 3D printig projects I am am using only the following screws (you do not need them all here). This has been proven to be good enough. Don't by them peace by peace! Minimum quantities of 50 or 100 will be as costly as a couple single ones. And you will need them for a lot of projects and can reuse them. 
+
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/894673e6-734c-46ea-9cd9-65c6b7c348e7)
 
 
