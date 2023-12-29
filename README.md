@@ -2,7 +2,9 @@
 
 Hi there,
 
-this is a 3D printable case system to build a astro pc made of a raspberry pi4 or/and thin client pc. It uses custom V-shaped conectors that are strong enough an easily interchangable.
+this is a 3D printable case system to build a astro pc made initially for a raspberry Pi4 or/and thin client pc. It uses custom V-shaped conectors that are strong enough an easily interchangable. There are different variants of the housing, depending on you setup (see down my setup). You can use the Fusion360 project to alter everything upon your needs.
+
+As always: please precheck, make prototypes, test before you print with high-quality PLA or PC. And double check the dimensions. 
 
 Licence is: Case system for Raspberry Pi © 2023 by Axel C. R. Pospischil is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -71,8 +73,9 @@ For all my 3D printig projects I am am using only the following screws (you do n
 
 
 ## My Stellarmate PC
-- This design is currently for a RPI 4B (not 3, not 5)
-- I currently build this for use it with
+This design is currently for a RPI 4B (not 3, not 5). Or a Thin client (Lenovo M93P, Dell Wyse 7050).
+
+I currently build the Pi4 with the following hardware addons: 
  - Geekworm NVME hat (via USB) for Raspberry Pi 4 - X862 V2.0
  - Geekworm Raspberry Pi 4 Model B passive heat sink
  - Geekworm X735 V3.0 power hat (https://wiki.geekworm.com/X735) for a stable power supply for the Pi4. I can use any input from 5V (USB-C, MIcro-USB) to 6-30V DC (via a round 5.1 mm jack).
