@@ -80,6 +80,11 @@ I currently build the Pi4 with the following hardware addons:
  - Geekworm X735 V3.0 power hat (https://wiki.geekworm.com/X735) for a stable power supply for the Pi4. I can use any input from 5V (USB-C, MIcro-USB) to 6-30V DC (via a round 5.1 mm jack).
  - More to come: a PiFinder hat
 
+ Image sources from amazon.de
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/d68de966-a92d-4ed0-97bf-c3a811d86933)
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/5eeaae78-9746-4423-adb2-ae63e5d9714e)
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/92c84bb9-a011-4aae-a41f-6eeed7032a0b)
+
 
 ### Examples
 
@@ -93,11 +98,4 @@ This ist with an old Astrophysics QNC 400. I simply made a 3D printed connector 
 
 
 
-
-
-
-Image sources: amazon.de
-![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/d68de966-a92d-4ed0-97bf-c3a811d86933)
-![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/5eeaae78-9746-4423-adb2-ae63e5d9714e)
-![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/92c84bb9-a011-4aae-a41f-6eeed7032a0b)
 
