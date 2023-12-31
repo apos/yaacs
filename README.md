@@ -77,13 +77,15 @@ This design is currently for a RPI 4B (not 3, not 5). Or a Thin client (Lenovo M
 
 I currently build the Pi4 with the following hardware addons: 
  - Geekworm NVME hat (via USB) for Raspberry Pi 4 - X862 V2.0. How to boot from USB/NVME is shown here: https://www.stewright.me/2019/10/run-raspbian-from-a-usb-or-ssd-on-a-raspberry-pi-4 or here https://ioastro.com/raspberry-pi-4-boot-from-usb/
+
+   ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/5eeaae78-9746-4423-adb2-ae63e5d9714e)   
+   
  - Geekworm Raspberry Pi 4 Model B passive heat sink
 
    ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/d68de966-a92d-4ed0-97bf-c3a811d86933)
    
  - Geekworm X735 V3.0 power hat (https://wiki.geekworm.com/X735) for a stable power supply for the Pi4. I can use any input from 5V (USB-C, MIcro-USB) to 6-30V DC (via a round 5.1 mm jack).
    
-   ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/5eeaae78-9746-4423-adb2-ae63e5d9714e)   
    ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/92c84bb9-a011-4aae-a41f-6eeed7032a0b)
 
  - More to come: a [PiFinder](https://www.pifinder.io) hat
