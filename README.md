@@ -79,7 +79,7 @@ I currently build the Pi4 with the following hardware addons:
  - Geekworm NVME hat (via USB) for Raspberry Pi 4 - X862 V2.0. How to boot from USB/NVME is shown here: https://www.stewright.me/2019/10/run-raspbian-from-a-usb-or-ssd-on-a-raspberry-pi-4 or here https://ioastro.com/raspberry-pi-4-boot-from-usb/
  - Geekworm Raspberry Pi 4 Model B passive heat sink
  - Geekworm X735 V3.0 power hat (https://wiki.geekworm.com/X735) for a stable power supply for the Pi4. I can use any input from 5V (USB-C, MIcro-USB) to 6-30V DC (via a round 5.1 mm jack).
- - More to come: a PiFinder hat
+ - More to come: a [PiFinder](https://www.pifinder.io) hat
 
 
  Image sources from amazon.de
