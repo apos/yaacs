@@ -49,7 +49,6 @@ This is with a build in fuse (but you can also use one outside of the housing, w
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/5290c4b2-2836-4a14-a09e-24ba53eba986)
 
 
-
 ## AZ-EQ-6 mount 
 No screws. Glue together with long v-mount. I use simple velcro band to secure it around the mount head. 
 
@@ -80,6 +79,22 @@ I currently build the Pi4 with the following hardware addons:
  - Geekworm Raspberry Pi 4 Model B passive heat sink
  - Geekworm X735 V3.0 power hat (https://wiki.geekworm.com/X735) for a stable power supply for the Pi4. I can use any input from 5V (USB-C, MIcro-USB) to 6-30V DC (via a round 5.1 mm jack).
  - More to come: a PiFinder hat
+
+
+### Examples
+
+This is the setup for the Lichtenknecker M100B on my balcony with a PI and an USB-box. You see, this can be very useful.
+
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/ca10f55d-26e7-42b1-befa-68aac09f844f)
+
+This ist with an old Astrophysics QNC 400. I simply made a 3D printed connector to the DEC-Axis.
+
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/e17fe38f-594d-44b3-8ea8-ac78ca7f67c3)
+
+
+
+
+
 
 Image sources: amazon.de
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/d68de966-a92d-4ed0-97bf-c3a811d86933)
