@@ -2,7 +2,7 @@
 
 Hi there,
 
-this is a 3D printable case system to build a astro pc made initially for a raspberry Pi4 or/and thin client pc. It uses custom V-shaped conectors that are strong enough an easily interchangable. There are different variants of the housing, depending on you setup (see down my setup). You can use the Fusion360 project to alter everything upon your needs.
+this is a 3D printable case system to build a astro pc made initially for a raspberry Pi4 or/and thin client pc. It uses custom V-shaped conectors that are strong enough an easily interchangable. There are different variants of the housing, depending on you setup (see down my setup). You can use the Fusion360 project to alter everything upon your needs. You can combine everything and use the v-mount like dovetails and glue or srew them to whatever you like. You need a bigger or smaller housing?: feel free to make your own with the attached Fusion360 code.
 
 As always: please precheck, make prototypes, test before you print with high-quality PLA or PC. And double check the dimensions. 
 
