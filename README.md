@@ -1,4 +1,4 @@
-# YAAPS - Yet Another Astro PC Case System
+# YAACS - Yet Another Astrocomputer Case System
 For Raspberry Pi or other (e.g. Stellarmate and Astroberry on Raspberry or Thin Client PC)
 
 Hi there,
