@@ -1,4 +1,5 @@
-# Case System for Raspberry Pi or other (e.g. Stellarmate and Astroberry on Raspberry or Thin Client PC)
+# YAAPS - Yet Another Astro PC Case System
+For Raspberry Pi or other (e.g. Stellarmate and Astroberry on Raspberry or Thin Client PC)
 
 Hi there,
 
