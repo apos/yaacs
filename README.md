@@ -97,9 +97,15 @@ I currently build the Pi4 with the following hardware addons:
 
 Together with the pifinder hat, this looks like so:
 
+Front (the USB connector for the NVME-hat is not mounted)
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/deab8fb3-012a-4385-b131-03ce27acd777)
 
+Side
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/621d2114-b10b-4339-8a23-0067f98638ad)
+
+Back
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/89e3a9bc-1886-4652-9372-586972200fde)
+
 
 
 Image sources from amazon.de
