@@ -74,7 +74,7 @@ For all my 3D printig projects I am am using only the following screws (you do n
 
 ## PiFinder hat
 You can combine your stellarmate with the [PiFinder](https://www.pifinder.io). This is great for EAA.
-But it is on you to alter the Fusion files and adapt things for mounting. You can use the quadratic base to switch between flat and normal use. Also you have to adatpt the NVME base. This already hat a trougohput for the video cable adapt the housing to your special setup. 
+But it is on you to alter the Fusion files and adapt things for mounting. You can use the quadratic base to switch between flat and normal use. Also youprobably have to adapt the NVME base to your special setup and height. The base already has a troughput for the pi-cams video cable. 
 
 The hat has to be screwed with the 2mm screws onto the top of the base. Or alter according to your ideas. 
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/d48e0286-e8af-4bda-ba67-f712f5eefb8f)
