@@ -9,7 +9,8 @@ As always: please precheck, make prototypes, test before you print with high-qua
 
 Licence is: Case system for Raspberry Pi © 2023 by Axel C. R. Pospischil is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/1d67b81f-250d-4325-87a3-b2c390186f6e)
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/02f951c3-b23b-40ae-bd33-d98b58ca7f62)
+
 
 For THIS PROJECT, you only need the following screws and glue:
 - M3/36mm
@@ -71,6 +72,12 @@ For all my 3D printig projects I am am using only the following screws (you do n
 
 ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/894673e6-734c-46ea-9cd9-65c6b7c348e7)
 
+## PiFinder hat
+You can combine your stellarmate with the [PiFinder](https://www.pifinder.io). This is great for EAA.
+But it is on you to alter the Fusion files and adapt things for mounting. You can use the quadratic base to switch between flat and normal use. Also you have to adatpt the NVME base. This already hat a trougohput for the video cable adapt the housing to your special setup. 
+
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/91157ba4-8e14-4b46-9a23-a69ad95ca3d6)
+
 
 ## My Stellarmate PC
 This design is currently for a RPI 4B (not 3, not 5). Or a Thin client (Lenovo M93P, Dell Wyse 7050).
@@ -88,7 +95,7 @@ I currently build the Pi4 with the following hardware addons:
    
    ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/92c84bb9-a011-4aae-a41f-6eeed7032a0b)
 
- - More to come: a [PiFinder](https://www.pifinder.io) hat
+
 
 
  Image sources from amazon.de
