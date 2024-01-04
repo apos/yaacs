@@ -95,14 +95,14 @@ I currently build the Pi4 with the following hardware addons:
    
    ![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/92c84bb9-a011-4aae-a41f-6eeed7032a0b)
 
+Together with the pifinder hat, this looks like so:
+
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/deab8fb3-012a-4385-b131-03ce27acd777)
+
+![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/621d2114-b10b-4339-8a23-0067f98638ad)
 
 
-
- Image sources from amazon.de
-
-
-
-
+Image sources from amazon.de
 
 ### Examples
 
