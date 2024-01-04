@@ -26,7 +26,7 @@ Everything always with 100% infill (you can use cubic infill with 50% but might 
 
 I am printing with a housed Prusa MK3S (housing is needed for PC)
 
-The vixen dovetails are glued to the parts. You could use screws. I do not like that. 
+The dovetails are glued to the parts. You could use screws or add them to the design. I do not like that. 
 
 
 # Additions
