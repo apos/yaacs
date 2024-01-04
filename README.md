@@ -3,7 +3,11 @@ For Raspberry Pi or other (e.g. Stellarmate and Astroberry on Raspberry or Thin 
 
 Hi there,
 
-this is a 3D printable case system to build an astro pc made initially for a raspberry Pi4 or/and thin client pc. It uses custom V-shaped connectors that are strong enough and easily interchangeable. There are different variants of the housing, depending on your set-up (see down my setup). You can use the Fusion360 project to alter everything upon your needs. You can combine everything and use the v-mount like dovetails and glue or screw them to whatever you like. Likewise, you require a bigger or smaller housing?: feel free to make your own with the attached Fusion360 code.
+this is a 3D printable case system to build an astro pc made initially for a raspberry Pi4 or/and thin client pc.
+
+It is especially designed to fit my special hardware setup. So you might have to alter the heights according to your setup. You can use the Fusion360 project to alter everything upon your needs. Be aware some parts are blended out in the fusion design, that might be useful for you. Likewise, you require a bigger or smaller housing.
+
+The design uses custom V-shaped dovetails that are strong enough and easily interchangeable. You can combine everything and use the v-mount like dovetails and glue or screw them to whatever you like.
 
 As always: please precheck, make prototypes, test before you print with high-quality PLA or PC. And double check the dimensions.
 
