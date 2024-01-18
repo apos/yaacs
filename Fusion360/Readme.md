@@ -14,16 +14,15 @@ All YAACS related base files including
 - certain types of dovetails in a special YAACS format (I might alter that to standard Vixen style ones in future). Need for M3 or M4 screws
 - special dovetails for Vixen and Losmandy style prism tails
 
+![grafik](https://github.com/apos/yaacs/assets/456034/7f474ff6-a022-4ed5-a8cc-54e9fc7f6bd0)
+
 ### RaendelSchraube_Diverse vXX.f3d
 
-You need these in conjunction with the YAACS dovetail. 
+You need these in conjunction with the YAACS dovetail. This is for [M3/36mm and M4/40mm long screws used in this project}(https://github.com/apos/yaacs/blob/main/README.md#my-screws-for-my-3d-printing-projects). 
 
 ![grafik](https://github.com/apos/yaacs/assets/456034/4e7a0710-be40-41e8-a7c5-c4df7e2d2da4)
 
 
-
-
-![grafik](https://github.com/apos/yaacs/assets/456034/7f474ff6-a022-4ed5-a8cc-54e9fc7f6bd0)
 
 ### Astroberry-EQ6_with_Vixen_Mount vXX.f3d
 
@@ -48,5 +47,9 @@ Mount for Lenovo M95 ThinkCentre Thin Client. Need too glue YAACS dovetails onto
 Mount for DELL Whyse 5070 Thin Client. Need too glue YAACS dovetails onto it. 
 
 ![grafik](https://github.com/apos/yaacs/assets/456034/e40d7136-febf-481d-abf5-191485a72d88)
+
+### clamb_30mm_quader_long.f3d
+
+For my 18 inch Dobson I created a special mount. It's quiet heavy duty. For 30mm rods. 
 
 
