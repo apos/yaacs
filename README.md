@@ -74,7 +74,8 @@ Uses M3x12. Glue together with long v-mount (bottom) and short v-mount on top.
 ## My screws for my 3D printing projects
 For all my 3D printig projects I am am using only the following screws (you do not need them all here). This has been proven to be good enough. Don't by them peace by peace! Minimum quantities of 50 or 100 will be as costly as a couple single ones. And you will need them for a lot of projects and can reuse them. 
 
-![image](https://github.com/apos/case_system_stellarmate_astroberry/assets/456034/894673e6-734c-46ea-9cd9-65c6b7c348e7)
+![grafik](https://github.com/apos/yaacs/assets/456034/f6d4f809-9a30-4d66-81f2-59b7445aee95)
+
 
 ## PiFinder hat
 You can combine your stellarmate with the [PiFinder](https://www.pifinder.io). This is great for EAA.
